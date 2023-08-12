@@ -3,6 +3,8 @@
 # **User-Centric AI Education**
 ## **BrainStation & Google 24-hour Hackathon**
 
+![Banner Image](https://static.wixstatic.com/media/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png/v1/fill/w_1264,h_260,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png)
+
 </div>
 
 ---
@@ -13,12 +15,13 @@ Welcome to our team's showcase for the 24-hour Hackathon, a collaborative ventur
 
 ### 🚀 Our Team
 
-- **Louis G.** (UX/UI Designer)
-- **Syed Ishmum** (Data Science)
+- **Louis Guarino** (UX/UI Designer)
 - **Mehrnoosh Behzadi** (Data Science)
-- **Zachary Ringwood** (Software Engineering)
+- **Rachel Liao** (Data Science)
+- **Syed Ishmum** (Data Science)
 - **Francis O'Donnell Bourke** (Software Engineering)
-- **Jorge L. Sader** (TA Project Manager)
+- **Zachary Ringwood** (Software Engineering)
+- **Jorge Sader** (TA Project Manager)
 
 ---
 
@@ -38,6 +41,8 @@ Our task was to address the following pivotal question:
 
 <h3>Our approach is centered on the user, aiming to enhance user control as a part of the educational process. By doing so, we aim to demystify AI for users, enabling them to make informed decisions about AI-related features and ensuring their trust is preserved.</h3>
 
+![Image1](https://static.wixstatic.com/media/6d6e15_68e13f1991e54ae4aaf31f15d64bfbcc~mv2.png/v1/fill/w_648,h_866,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/hackathon%20mock%20up.png)
+
 </div>
 
 ---
@@ -45,10 +50,12 @@ Our task was to address the following pivotal question:
 ### 🎥 Demonstrations
 
 #### Presentation Slides
-Discover more about our journey, brainstorming process, and solution by viewing our [Presentation Slides](https://lnkd.in/g5zAQtCQ).
+Discover more about our journey, brainstorming process, and solution by viewing our [Presentation Slides](https://www.canva.com/design/DAFpNSB49-8/f7ymEyPAZB0P1Mfao3O65w/view?utm_content=DAFpNSB49-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 #### Solution Demo
-Experience our solution firsthand by checking out the [Solution Demo](https://lnkd.in/gjSunmt6).
+Experience our solution firsthand by checking out the [Solution Demo](https://www.figma.com/proto/1yTRZaldpvvmrTQ7xTTUDv/Google-BARD?page-id=0%3A1&type=design&node-id=2-2&viewport=230%2C471%2C0.18&t=E3J0KFZOfG0QnOZN-1&scaling=scale-down&starting-point-node-id=2%3A2).
+
+![Image2](https://static.wixstatic.com/media/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png/v1/fill/w_193,h_391,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png)
 
 ---
 
