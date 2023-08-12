@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# **User-Centric AI Education**
+# **User-Centric AI Education: Google A.I.**
 ## **BrainStation & Google 24-hour Hackathon**
 
 </div>
