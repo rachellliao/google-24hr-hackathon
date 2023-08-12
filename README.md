@@ -1,20 +1,16 @@
-<div align="center">
-
 # **User-Centric AI Education**
 
 ![Banner Image](https://static.wixstatic.com/media/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png/v1/fill/w_1264,h_260,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png)
 
 ## **BrainStation & Google 24-hour Hackathon**
 
-</div>
-
 ---
 
-## 🌟 Introduction
+## 📍 Introduction
 
 Welcome to our team's showcase for the 24-hour Hackathon, a collaborative venture between BrainStation and Google. I'm thrilled to introduce our dynamic team, a mix of data scientists, UI/UX designers, software engineers, and a fantastic TA Project Manager:
 
-### 🚀 Our Team
+### 🤩 Our Team
 
 - **Louis Guarino** (UX/UI Designer)
 - **Mehrnoosh Behzadi** (Data Science)
@@ -26,7 +22,7 @@ Welcome to our team's showcase for the 24-hour Hackathon, a collaborative ventur
 
 ---
 
-### 🤔 The Challenge
+### 📝 The Challenge
 
 Our task was to address the following pivotal question:
 
@@ -48,7 +44,7 @@ Our task was to address the following pivotal question:
 
 ---
 
-### 🎥 Demonstrations
+### 🎬 Demonstrations
 
 #### Presentation Slides
 Discover more about our journey, brainstorming process, and solution by viewing our [Presentation Slides](https://www.canva.com/design/DAFpNSB49-8/f7ymEyPAZB0P1Mfao3O65w/view?utm_content=DAFpNSB49-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
@@ -57,7 +53,9 @@ Discover more about our journey, brainstorming process, and solution by viewing 
 Experience our solution firsthand by checking out the [Solution Demo](https://www.figma.com/proto/1yTRZaldpvvmrTQ7xTTUDv/Google-BARD?page-id=0%3A1&type=design&node-id=2-2&viewport=230%2C471%2C0.18&t=E3J0KFZOfG0QnOZN-1&scaling=scale-down&starting-point-node-id=2%3A2).
 
 <div align="center">
+
 ![Image2](https://static.wixstatic.com/media/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png/v1/fill/w_193,h_391,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png)
+
 </div>
 
 ---
