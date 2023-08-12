@@ -37,7 +37,7 @@ Our task was to address the following pivotal question:
 
 <div align="center">
 
-<h2><strong>User-Centric AI Education: Google A.I.</strong></h2>
+<h2 style="color: #1a73e8;"><strong>User-Centric AI Education: Google A.I.</strong></h2>
 
 <h3>Our approach is centered on the user, aiming to enhance user control as a part of the educational process. By doing so, we aim to demystify AI for users, enabling them to make informed decisions about AI-related features and ensuring their trust is preserved.</h3>
 
