@@ -1,12 +1,16 @@
+<div align="center">
+
 # **User-Centric AI Education**
 
 ![Banner Image](https://static.wixstatic.com/media/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png/v1/fill/w_1264,h_260,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png)
 
 ## **BrainStation & Google 24-hour Hackathon**
 
+</div>
+
 ---
 
-## 📍 Introduction
+## 📌 Introduction
 
 Welcome to our team's showcase for the 24-hour Hackathon, a collaborative venture between BrainStation and Google. I'm thrilled to introduce our dynamic team, a mix of data scientists, UI/UX designers, software engineers, and a fantastic TA Project Manager:
 
@@ -22,7 +26,7 @@ Welcome to our team's showcase for the 24-hour Hackathon, a collaborative ventur
 
 ---
 
-### 📝 The Challenge
+### 🤔 The Challenge
 
 Our task was to address the following pivotal question:
 
