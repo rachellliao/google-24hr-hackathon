@@ -1,9 +1,10 @@
 <div align="center">
 
 # **User-Centric AI Education**
-## **BrainStation & Google 24-hour Hackathon**
 
 ![Banner Image](https://static.wixstatic.com/media/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png/v1/fill/w_1264,h_260,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_0f02a5b7f35c4ffaa316fa7fc47f0da5~mv2.png)
+
+## **BrainStation & Google 24-hour Hackathon**
 
 </div>
 
@@ -55,7 +56,9 @@ Discover more about our journey, brainstorming process, and solution by viewing 
 #### Solution Demo
 Experience our solution firsthand by checking out the [Solution Demo](https://www.figma.com/proto/1yTRZaldpvvmrTQ7xTTUDv/Google-BARD?page-id=0%3A1&type=design&node-id=2-2&viewport=230%2C471%2C0.18&t=E3J0KFZOfG0QnOZN-1&scaling=scale-down&starting-point-node-id=2%3A2).
 
+<div align="center">
 ![Image2](https://static.wixstatic.com/media/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png/v1/fill/w_193,h_391,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png)
+</div>
 
 ---
 
